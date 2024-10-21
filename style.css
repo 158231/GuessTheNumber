@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+padding:0px;
+}
+.treasuremap{
+    background-image:url(https://www.woodlochedge.com/wp-content/uploads/2020/01/treasurehunt.jpg);
+    background-size:cover;
+}
+#greattreasure{
+    font-family:sans-serif;
+    background-color:aqua;
+    text-align: center;
+    
+}
+#mainguessthegatenumber{
+    display:flex;
+    margin:5px;
+    border:2px;
+    justify-content: center ;
+    
+
+}
+#box1,#box3{
+    background-color:white;
+    height:100px;
+    width:200px;
+    margin:10px;
+border:10px;
+text-align:center;
+padding:1px;
+}
+#box2{
+    background-color:white;
+    height:100px;
+    width:200px;
+    margin:10px;
+border:10px;
+text-align:center;
+padding:1px;
+}
+
